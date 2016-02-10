@@ -1,0 +1,30 @@
+_repo: Le-13e-Hussards-types-profils-esquisses-et-croquis-militaires-a-pied-et-a-cheval_46604
+covers:
+- cover_type: archival
+  image_path: 46604/46604-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46604'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Le 13e Hussards, types, profils, esquisses et croquis militaires... á pied
+  et á cheval
+url: http://www.gutenberg.org/ebooks/46604

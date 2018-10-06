@@ -26,6 +26,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Le 13e Hussards, types, profils, esquisses et croquis militaires... á pied
   et á cheval
 url: http://www.gutenberg.org/ebooks/46604
